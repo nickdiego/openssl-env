@@ -1,0 +1,5 @@
+Meta-repo for building Openssl toolkit https://github.com/openssl/openssl,
+initially for android (to package in Qt5 applications).
+
+Following instructions from: https://wiki.openssl.org/index.php/Androidtoolkit
+

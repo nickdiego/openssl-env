@@ -1,0 +1,5 @@
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
+	ignore = dirty
+	branch = OpenSSL_1_0_2-stable
